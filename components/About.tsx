@@ -43,7 +43,7 @@ const About: React.FC = () => {
                   <span className="text-indigo-400 font-semibold">
                     Hamza Arshad
                   </span>
-                   ,a passionate learner and aspiring tech professional. I am currently focused on building strong skills in Python, Data Analysis, and Web Development. I enjoy learning how technology works and turning ideas into real projects.
+                   ,a passionate learner and aspiring tech professional. I am currently focused on building strong skills in Python and Frontened. I enjoy learning how technology works and turning ideas into real projects.
                 </p>
 
                 <p>
@@ -51,11 +51,11 @@ const About: React.FC = () => {
                   <span className="text-white font-medium">
                     "learning by doing."
                   </span>{" "}
-                 I have experience with HTML, CSS, Python, NumPy, Pandas, and MS Excel, and I am continuously improving my problem-solving and analytical skills. I believe in learning step by step and building a solid foundation rather than rushing things.
+                 I have experience with HTML, CSS, JavaScript, Python, NumPy, Pandas, and MS Excel, and I am continuously improving my problem-solving and analytical skills. I believe in learning step by step and building a solid foundation rather than rushing things.
                 </p>
 
                 <p>
-                  My goal is to grow into a successful Data Analyst and work on meaningful projects that create real value. I am highly motivated, self-disciplined, and always eager to learn new technologies and improve myself every day.
+                  My goal is to grow into a successful Software Engineer and work on meaningful projects that create real value. I am highly motivated, self-disciplined, and always eager to learn new technologies and improve myself every day.
                  
                 </p>
               </div>
